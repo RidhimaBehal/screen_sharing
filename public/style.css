@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background: #f4f4f4;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  #screenVideo {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
